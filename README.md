@@ -28,7 +28,7 @@ Built using:
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/Bhumesh2001/Daily_Dashboard.git
+git clone https://github.com/Gauravv191/Daily_Dashboard.git
 cd daily-dashboard
 pip install -r requirements.txt
 
